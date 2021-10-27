@@ -6,18 +6,18 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
+- [Demo](#demo)
 - [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
 
-<!-- OVERVIEW -->
+<!-- DEMO -->
 
 ## Demo
 
-![screenshot](https://django-todoo.herokuapp.com/)
+https://django-todoo.herokuapp.com/
 
-### Built With
+## Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
