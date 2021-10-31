@@ -2,15 +2,6 @@
 
 <h1 align="center">ToDo App</h1>
 
-<!-- TABLE OF CONTENTS -->
-
-## Table of Contents
-
-- [Demo](#demo)
-- [Built With](#built-with)
-- [Features](#features)
-- [How to use](#how-to-use)
-
 <!-- DEMO -->
 
 ## Demo
